@@ -3,7 +3,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on QuranHTML & BloxdWorldCode
 - 🌱 I’m currently learning Python, R and HTML
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 
  Official Web : https://shselite.vercel.app
 
-# Official Slogan : There can be Muslims anywhere - There is a Muslim in the coding industry
+Official Slogan : There can be Muslims anywhere - There is a Muslim in the coding industry
 
