@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 
 Here are some ideas to get you started:
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be B1oxdg4mer_
 
-Official Web : https://shselite.vercel.app
+# Official Web : https://shselite.vercel.app
 
 # Official Slogan : There can be Muslims anywhere - There is a Muslim in the coding industry
--->
+
