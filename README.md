@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python, R and HTML
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be B1oxdg4mer_
-
+- 📚 Fact : I use HTML a lot more and came here 1+ Month ago
  Official Web : https://shselite.vercel.app
 
 Official Slogan : There can be Muslims anywhere - There is a Muslim in the coding industry
