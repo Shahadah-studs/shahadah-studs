@@ -1,6 +1,6 @@
-## Hi there 👋 / Assalamualikum (Peace be upon you) 👋
+# Hi there 👋 / Assalamualikum (Peace be upon you) 👋
 
-
+## About me : I am A UX and UI designer with original CSS or Vanilla CSS, I keep most of my things lightweight so I don't go bonkers! I love cars and code, I am the Developer behind <a href="https://BloxdWorldcode.vercel.app"> BloxdWorldCode! </a> 
 
 
 
@@ -14,9 +14,6 @@
 
 Official Slogan : There can be Muslims anywhere - There is a Muslim in the coding industry
 
-## Contact me By email at : 
-
-# <kbd><img src="https://ibb.co/TDyD6W4b" width="150" alt="">[E-mail](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRspphJRdbRSmnXsjKMZdfWMdfsJFRQCDBmzskXDhpWlXJGskHxSGpJgGTCLjhzkrkmLkjV)</kbd>
 
 
  
