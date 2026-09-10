@@ -15,7 +15,7 @@
 Official Slogan : There can be Muslims anywhere - There is a Muslim in the coding industry
 
 
-## Languages Dashboard
+## Languages 
 
 | Language | Proficiency | Status |
 |----------|-------------|--------|
