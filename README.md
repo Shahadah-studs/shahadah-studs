@@ -20,12 +20,18 @@ Official Slogan : There can be Muslims anywhere - There is a Muslim in the codin
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 20px 0;">
   <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="animation: fadeInScale 0.6s ease-in-out; transform-origin: center;" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="animation: fadeInScale 0.8s ease-in-out; transform-origin: center;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="animation: fadeInScale 1.0s ease-in-out; transform-origin: center;" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" style="animation: fadeInScale 1.2s ease-in-out; transform-origin: center;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="animation: fadeInScale 1.4s ease-in-the-out; transform-origin: center;" />
-  <img src="https://img.shields.io/badge/Vanilla%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Vanilla CSS" style="animation: fadeInScale 1.6s ease-in-out; transform-origin: center;" />
-  <img src="https://img.shields.io/badge/UX%2FUI%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI Design" style="animation: fadeInScale 1.8s ease-in-out; transform-origin: center;" />
+ <br> 
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="animation: fadeInScale 0.8s ease-in-out; transform-origin: center;" />
+ <br> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="animation: fadeInScale 1.0s ease-in-out; transform-origin: center;" />
+ <br>
+ <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" style="animation: fadeInScale 1.2s ease-in-out; transform-origin: center;" />
+ <br> 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="animation: fadeInScale 1.4s ease-in-the-out; transform-origin: center;" />
+ <br> 
+ <img src="https://img.shields.io/badge/Vanilla%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Vanilla CSS" style="animation: fadeInScale 1.6s ease-in-out; transform-origin: center;" />
+ <br> 
+ <img src="https://img.shields.io/badge/UX%2FUI%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI Design" style="animation: fadeInScale 1.8s ease-in-out; transform-origin: center;" />
 </div>
 
 
