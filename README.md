@@ -1,6 +1,7 @@
 # Hi there 👋 / Assalamualikum (Peace be upon you) 👋
 
-## About me : I am A UX and UI designer with original CSS or Vanilla CSS, I keep most of my things lightweight so I don't go bonkers! I love cars and code, I am the Developer behind <a href="https://b[...]
+## About me : I am A UX and UI designer with original CSS or Vanilla CSS, I keep most of my things lightweight so I don't go bonkers! I love cars and code, I am the Developer behind <a href="https://bloxdworldcode.vercel.app">BloxdWorldCode!</a>
+
 
 
 
@@ -27,18 +28,7 @@ Official Slogan : There can be Muslims anywhere - There is a Muslim in the codin
   <img src="https://img.shields.io/badge/UX%2FUI%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI Design" style="animation: fadeInScale 1.8s ease-in-out; transform-origin: center;" />
 </div>
 
-<style>
-  @keyframes fadeInScale {
-    from {
-      opacity: 0;
-      transform: scale(0.8);
-    }
-    to {
-      opacity: 1;
-      transform: scale(1);
-    }
-  }
-</style>
+
 
 ### Proficiency Overview
 
