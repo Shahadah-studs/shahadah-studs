@@ -48,5 +48,3 @@ Official Slogan : There can be Muslims anywhere - There is a Muslim in the codin
 | UX/UI Design | Expert | ✅ Proficient |
 
 
-
-<iframe href="https://shselite.vercel.app"></iframe>
