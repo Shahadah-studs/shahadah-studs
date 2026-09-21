@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=700&height=70&lines=Shahadah+Studios+Elite" alt="Typing SVG" />
+</p>
+
 # Hi there 👋 / Assalamualikum (Peace be upon you) 👋
 
 ## About me : I am A UX and UI designer with original CSS or Vanilla CSS, I keep most of my things lightweight so I don't go bonkers! I love cars and code, I am the Developer behind <a href="https://bloxdworldcode.vercel.app">BloxdWorldCode!</a>
