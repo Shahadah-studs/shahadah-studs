@@ -51,4 +51,4 @@ Official Slogan : There can be Muslims anywhere - There is a Muslim in the codin
 | R | Advanced | 📚 Learning |
 | UX/UI Design | Expert | ✅ Proficient |
 
-
+> I Don't use AI anywhere- i take time to fix 'n upgrade plain HTML/CSS sites from before to after. "AI is breaking humanity"
