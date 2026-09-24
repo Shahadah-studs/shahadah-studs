@@ -52,3 +52,20 @@ Official Slogan : There can be Muslims anywhere - There is a Muslim in the codin
 | UX/UI Design | Expert | ✅ Proficient |
 
 > I Don't use AI anywhere- i take time to fix 'n upgrade plain HTML/CSS sites from before to after. "AI is breaking humanity"
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=shahadah-studs" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=shahadah-studs&theme=tokyonight&hide_border=false" width="48%" />
+
+<br>
+
+<img src="" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=shahadah-studs" width="48%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahadah-studs&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+
+</div>
