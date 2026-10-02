@@ -1,4 +1,5 @@
 <p align="center">
+  <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" /> <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=700&height=70&lines=Shahadah+Studios+Elite" alt="Typing SVG" />
 </p>
 
