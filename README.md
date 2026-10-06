@@ -62,11 +62,6 @@ Official Slogan : There can be Muslims anywhere - There is a Muslim in the codin
 
 <br>
 
-<img src="" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=shahadah-studs" width="48%" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahadah-studs&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 
 </div>
