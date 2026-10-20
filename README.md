@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=700&height=70&lines=Shahadah+Studios+Elite" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&center=true&vCenter=true&width=700&height=70&lines=Shahadah+Studios+Elite" alt="Typing SVG" />
 </p>
 
 # Hi there 👋 / Assalamualikum (Peace be upon you) 👋
