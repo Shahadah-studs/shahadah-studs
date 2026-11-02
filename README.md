@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&center=true&vCenter=true&width=700&height=70&lines=Shahadah+Studios+Elite" alt="Shahadah Studios Elite" />
 </p>
 
-# Assalamu alaikum! 👋
+# Assalamu alaikum! 👋 Peace be upon you!
 
-I'm Shahadah, a UX/UI designer and developer who enjoys building lightweight websites with HTML and CSS. I love cars, code, and making thoughtful designs with vanilla web technologies.
-
+I'm Shahadah, a UX/UI designer and developer who enjoys building lightweight websites with HTML and CSS. I love cars, code, and making thoughtful designs with vanilla web technologies. Also the developer of **<a href="https://bloxdworldcode.vercel.app">BloxdWorldCode</a>!**
+ 
 ## What I'm working on
 
 - 🔭 QuranHTML and BloxdWorldCode
