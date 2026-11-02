@@ -1,67 +1,38 @@
 <p align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&center=true&vCenter=true&width=700&height=70&lines=Shahadah+Studios+Elite" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&center=true&vCenter=true&width=700&height=70&lines=Shahadah+Studios+Elite" alt="Shahadah Studios Elite" />
 </p>
 
-# Hi there 👋 / Assalamualikum (Peace be upon you) 👋
+# Assalamu alaikum! 👋
 
-## About me : I am A UX and UI designer with original CSS or Vanilla CSS, I keep most of my things lightweight so I don't go bonkers! I love cars and code, I am the Developer behind <a href="https://bloxdworldcode.vercel.app">BloxdWorldCode!</a>
+I'm Shahadah, a UX/UI designer and developer who enjoys building lightweight websites with HTML and CSS. I love cars, code, and making thoughtful designs with vanilla web technologies.
 
+## What I'm working on
 
-
-
-- 🔭 I'm currently working on QuranHTML & BloxdWorldCode
-- 🌱 I'm currently learning Python, R and HTML
+- 🔭 QuranHTML and BloxdWorldCode
+- 🌱 Learning Python, R, and HTML
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to be B1oxdg4mer_
-- 📚 Fact : I use HTML a lot more and came here 1+ Month ago
+- ⚡ Formerly known as `B1oxdg4mer_`
 
- Official Web : https://shselite.vercel.app
+**Official website:** [shselite.vercel.app](https://shselite.vercel.app)
 
-Official Slogan : There can be Muslims anywhere - There is a Muslim in the coding industry
+> There can be Muslims anywhere — there is a Muslim in the coding industry.
 
+## Skills
 
-## Languages & Skills
+| Area | Tools and experience |
+|---|---|
+| Web | HTML, CSS, vanilla CSS, JavaScript |
+| Learning | Python, R |
+| Design | UX/UI design |
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="animation: fadeInScale 0.6s ease-in-out; transform-origin: center;" />
- <br> 
- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="animation: fadeInScale 0.8s ease-in-out; transform-origin: center;" />
- <br> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="animation: fadeInScale 1.0s ease-in-out; transform-origin: center;" />
- <br>
- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" style="animation: fadeInScale 1.2s ease-in-out; transform-origin: center;" />
- <br> 
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="animation: fadeInScale 1.4s ease-in-the-out; transform-origin: center;" />
- <br> 
- <img src="https://img.shields.io/badge/Vanilla%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Vanilla CSS" style="animation: fadeInScale 1.6s ease-in-out; transform-origin: center;" />
- <br> 
- <img src="https://img.shields.io/badge/UX%2FUI%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI Design" style="animation: fadeInScale 1.8s ease-in-out; transform-origin: center;" />
-</div>
+## GitHub
 
+[![GitHub followers](https://img.shields.io/github/followers/Shahadah-studs?label=GitHub%20followers&style=social)](https://github.com/Shahadah-studs)
 
+---
 
-### Proficiency Overview
+## Find me online
 
-| Language | Proficiency | Status |
-|----------|-------------|--------|
-| HTML | Expert | ✅ Proficient |
-| CSS | Expert | ✅ Proficient |
-| JavaScript | Advanced | 🚀 Active |
-| Python | Intermediate | 📚 Learning |
-| R | Advanced | 📚 Learning |
-| UX/UI Design | Expert | ✅ Proficient |
-
-> I Don't use AI anywhere- i take time to fix 'n upgrade plain HTML/CSS sites from before to after. "AI is breaking humanity"
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=shahadah-studs" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=shahadah-studs&theme=tokyonight&hide_border=false" width="48%" />
-
-<br>
-
-
-
-</div>
+- 🎮 [itch.io](https://shahadah-studios.itch.io)
+- 🌐 [Official website](https://shselite.vercel.app)
+- 💻 [GitHub](https://github.com/Shahadah-studs)
