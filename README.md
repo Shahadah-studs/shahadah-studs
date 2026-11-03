@@ -4,7 +4,7 @@
 
 # Assalamu alaikum! 👋 Peace be upon you!
 
-I'm Shahadah, a UX/UI designer and developer who enjoys building lightweight websites with HTML and CSS. I love cars, code, and making thoughtful designs with vanilla web technologies. Also the developer of **<a href="https://bloxdworldcode.vercel.app">BloxdWorldCode</a>!**
+I'm Shahadah_Studios, a UX/UI designer and developer who enjoys building lightweight websites with HTML and CSS. I love cars, code, and making thoughtful designs with vanilla web technologies. Also the developer of **<a href="https://bloxdworldcode.vercel.app">BloxdWorldCode</a>!**
  
 ## What I'm working on
 
