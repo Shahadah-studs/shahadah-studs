@@ -27,7 +27,7 @@ I'm Shahadah_Studios, a UX/UI designer and developer who enjoys building lightwe
 
 ## GitHub
 
-[![GitHub followers](https://img.shields.io/github/followers/Shahadah-studs?label=GitHub%20followers&style=social)](https://github.com/Shahadah-studs)
+[![GitHub followers](https://img.shields.io/github/followers/Shahadah-studs?label=GitHub%20followers&style=social)](https://github.com/Shahadah-studs/?tab=followers)
 
 ---
 
