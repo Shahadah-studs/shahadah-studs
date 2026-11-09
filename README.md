@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&center=true&vCenter=true&width=700&height=70&lines=Shahadah+Studios+Elite" alt="Shahadah Studios Elite" />
 </p>
 
-# Assalamu alaikum! 👋 Peace be upon you!
+# Assalamu alaikum! 👋 Peace be upon you! 👋
 
-I'm Shahadah_Studios, a UX/UI designer and developer who enjoys building lightweight websites with HTML and CSS. I love cars, code, and making thoughtful designs with vanilla web technologies. Also the developer of **<a href="https://bloxdworldcode.vercel.app">BloxdWorldCode</a>!**
+I'm Shahadah_Studios, a UX/UI designer and developer who enjoys building lightweight websites with HTML and CSS. I love cars, code, and making thoughtful designs with vanilla web technologies. Also the developer of **<a href="https://bloxdworldcode.vercel.app">BloxdWorldCode</a>!** Plus, I created the **<a href="https://bloxdworldcode-mods.vercel.app">BloxdWorldCode Workshop!</a>**
  
 ## What I'm working on
 
@@ -21,7 +21,7 @@ I'm Shahadah_Studios, a UX/UI designer and developer who enjoys building lightwe
 
 | Area | Tools and experience |
 |---|---|
-| Web | HTML, CSS, vanilla CSS, JavaScript |
+| Web | HTML, CSS, vanilla CSS, JavaScript and TypeScript! |
 | Learning | Python, R |
 | Design | UX/UI design |
 
